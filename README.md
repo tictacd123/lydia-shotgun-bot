@@ -1,4 +1,4 @@
-##Lydia Shotgun Bot
+## Lydia Shotgun Bot
 
 <p>Pour ne rater aucun événément et commander des places à la vitesse de l'éclair sur Lydia.</p>
 
