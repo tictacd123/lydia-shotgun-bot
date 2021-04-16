@@ -3,11 +3,11 @@
 <p>Pour ne rater aucun événément et commander des places à la vitesse de l'éclair sur Lydia.</p>
 
 <h2>Requirements</h2>
-<p> executer la commande 
+
 <code>
   pip install -r requirements.txt
 </code> 
-</p>
+
 <p>N'oubliez pas de remplacer </p>
 
 ```Python
